@@ -1,9 +1,12 @@
 .card {
   display: flex;
   flex-wrap: wrap;
+  width: 50%;
   border: 1px solid lightblue;
   align-items: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  
   
   
   
