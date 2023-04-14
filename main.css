@@ -1,0 +1,56 @@
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid lightblue;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  
+  
+}
+
+.availability {
+  background-color: darkgray;
+  color: yellow;
+  width: 106.5%;
+  flex-grow: 1;
+  justify-content: flex-start;
+  
+  
+}
+
+.card-text {
+  text-justify: auto;
+}
+
+.title {
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.specs {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.footer {
+  font-size: x-small;
+  text-align: center;
+}
+
+.product-pricing {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oneGlass {
+  font-size: small;
+}
+
+.twoGlass {
+  font-size: small;
+}
+
+.threeGlass {
+  font-size: small;
+}
